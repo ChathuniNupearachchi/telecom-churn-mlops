@@ -18,10 +18,10 @@ data/raw/*.csv
 data/processed/*.csv
 *.csv
 
-# Models
-models/*.pkl
-models/*.h5
-models/*.pt
+# # Models
+# models/*.pkl
+# models/*.h5
+# models/*.pt
 
 # MLflow
 mlruns/
